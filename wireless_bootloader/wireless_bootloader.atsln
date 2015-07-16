@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "wireless_bootloader", "wireless_bootloader\wireless_bootloader.cproj", "{7688C55E-66FA-49EC-AFCA-2D706017DDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7688C55E-66FA-49EC-AFCA-2D706017DDFA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{7688C55E-66FA-49EC-AFCA-2D706017DDFA}.Debug|AVR.Build.0 = Debug|AVR
+		{7688C55E-66FA-49EC-AFCA-2D706017DDFA}.Release|AVR.ActiveCfg = Release|AVR
+		{7688C55E-66FA-49EC-AFCA-2D706017DDFA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
